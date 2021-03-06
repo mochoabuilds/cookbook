@@ -2,29 +2,25 @@
 
 by Michael Valentino Ochoa
 
-## THE REASONS FOR THIS COOKBOOK
+## REASONS FOR THIS COOKBOOK
 
-* This document was written for non-stem learners interested in computer vision.  The goal is provide readers with a working understanding of computer vision. I presume you have high school / early college math literacy. I also assume a knowledge of programming, as examples are coded in C/C++.  
-* This cookbook is filled with code for low level computer vision applications. I organize the document around dialing up the complexity bit by bit to show code in action. All problems are broken down into smaller digestable components, and then put together in a way yielding fresh tools and insights. For the sake of this document we avoid three dimensional vision, and largely avoid RGB color maps.  My hope is to show curious non-stem students how to identify and classify objects into themed groups.
+* This document was written for non-stem learners interested in computer vision.  The goal is to provide readers with a working understanding of computer vision. I presume you have high school and early college math literacy. I also assume a knowledge of programming, as examples are coded in C++.  
+* This cookbook is filled with code for computer vision applications. I organize the document around dialing up the complexity bit by bit to show code in action. All problems are broken down into smaller digestable components, and then put together in a way yielding fresh tools and insights. The few who understand computer vision technology and have the skills to rapidly deploy technology with C++ have a huge advantage.  The goal of this document is to assist non-stem learners in scooping up this valuable advantage. 
 
-## THE HARDWARE OF COMPUTER VISION
+## INTRODUCTION
 
-## BASIC OF COMPUTER VISION 
+## DATA TYPES
 
-## GREY LEVEL VIDEO
+## ARRAY OPERATIONS
 
-## CLASSIFYING AND RECOGNIZING OBJECTS
+## TBD
 
-## COUNTING AND CLASSIFYING OBJECTS
+## TBD
 
 ## ETHICAL ASPECTS
-
-## MANAGEMENT OF TECHNOLOGY
-
-## OPERATIONS
-
-## EXAMPLE APPLICATIONS
 
 ## APPENDIX A 
 
 ## APPENDIX B
+
+## BIBLIOGRAPHY
