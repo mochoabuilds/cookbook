@@ -9,6 +9,20 @@ by Michael Valentino Ochoa
 
 ## INTRODUCTION
 
+## DEVELOPMENT CYCLE
+
+1 - Understand the subleties of the computer vision problems we are trying to solve. We are not trying to solve the wrong one.
+
+2 - Flowchart/Psuedocode with logic checked by friend
+
+3 - Translate Step 2 into code for Integrated Development Environment (IDE)
+
+4 - Complier translates C++ programs/external references into equivalent machine language object program
+
+5 - Execute program!
+
+6 - Test and debug program under many scenarios
+
 ## DATA TYPES
 
 ## ARRAY OPERATIONS
@@ -19,8 +33,6 @@ by Michael Valentino Ochoa
 
 ## ETHICAL ASPECTS
 
-## APPENDIX A 
-
-## APPENDIX B
+## APPENDIX 
 
 ## BIBLIOGRAPHY
