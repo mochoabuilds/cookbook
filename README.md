@@ -4,8 +4,8 @@ by Michael Valentino Ochoa
 
 ## REASONS FOR THIS COOKBOOK
 
-* This document was written for non-stem students interested in computer vision, a term used to describe methods that give hand-held size processors the power of understanding a scene.  The goal is to provide readers with a working understanding and much more.  
-* Moving forward, I presume readers have high school and early college math literacy. The hope is you can gain a working understanding of computer vision thru code/pseudocode/diagrams, with examples coded in C++. The document below will dial up the complexity bit by bit to show it all in action. The goal is to help non-stem students scoop up a working understanding of computer vision.
+* This document was written for non-stem students interested in computer vision, a term used to describe methods that give hand-held size processors the power of understanding a real world scene.  The goal is to provide readers with a working understanding of computer vision and object oriented programming.  
+* Moving forward, I presume readers have high school and early college math literacy. The hope is you can gain a working understanding of computer vision thru open source code, pseudocodo and diagrams, with examples coded in C++. The writing below will dial up the complexity bit by bit to show it all in action. The goal is to help non-stem students scoop up a working understanding of computer vision and object oriented programming.
 
 ## INTRODUCTION
 
